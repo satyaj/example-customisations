@@ -52,7 +52,7 @@
 
 :parent-context: {context}
 [id='amq-to-rest-api_{context}']
-= Implement an AMQ to REST API sample integration
+= Implement an AMQ to REST API sample integration - Satya
 
 
 :context: amq2api
